@@ -1,0 +1,15 @@
+# Python/Django
+controle-ponto-backend/__pycache__/
+controle-ponto-backend/*.pyc
+controle-ponto-backend/db.sqlite3
+controle-ponto-backend/.env
+
+# Node/React
+controle-ponto-frontend/node_modules/
+controle-ponto-frontend/.env
+controle-ponto-frontend/dist/
+
+# Sistema
+*.log
+*.DS_Store
+.env
